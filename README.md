@@ -42,3 +42,7 @@ Most ROS-based systems rely on command-line tools or local applications for cont
 
 ![screenshot placeholder](Images/image)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 17acb40 (images)
