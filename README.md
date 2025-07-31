@@ -40,9 +40,5 @@ Most ROS-based systems rely on command-line tools or local applications for cont
 
 ## 🖼️ UI Preview
 
-![screenshot placeholder](Images/image)
+![Web UI Screenshot](Images/image.png)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 17acb40 (images)
